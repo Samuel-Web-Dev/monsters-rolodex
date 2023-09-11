@@ -1,1 +1,1 @@
-console.log("main logging")
+console.log("version 1")
