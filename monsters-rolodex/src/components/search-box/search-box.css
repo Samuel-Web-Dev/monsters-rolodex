@@ -1,0 +1,22 @@
+
+ .search {
+  -webkit-appearance: none;
+  appearance: none;
+   width: 300px;
+   border-radius: 10px;
+   border: none;
+   outline: none;
+   padding: 10px;
+   margin: 0 auto;
+   display: block;
+   margin-bottom: 30px;
+   margin-top: 10px;
+   line-height: 30px;
+   font-size: 1.2rem;
+}
+
+@media screen and (width <= 350px) {
+   .search{
+      width: 200px;
+   }
+}
